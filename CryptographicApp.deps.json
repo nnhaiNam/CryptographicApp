@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CryptographicApp/1.0.0": {
+        "runtime": {
+          "CryptographicApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CryptographicApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
